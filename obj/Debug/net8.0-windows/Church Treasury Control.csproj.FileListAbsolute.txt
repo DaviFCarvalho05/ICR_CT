@@ -1,0 +1,42 @@
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Church Treasury Control.exe
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Church Treasury Control.deps.json
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Church Treasury Control.runtimeconfig.json
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Church Treasury Control.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Church Treasury Control.pdb
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\ExCSS.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\GumroadLicensing.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\itextsharp.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Kimtoo.SvgProvider.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\MetroFramework.Design.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\MetroFramework.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Word.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\RestSharp.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\Svg.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.csproj.AssemblyReference.cache
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Config.Config.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.CustomProgressBar.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Dashboard.Dashboard.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Expendes.ExpendesFM.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Expendes.Register_ExpendesFM.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.FormMenu.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Incomes.IncomesFM.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Incomes.Register_IncomesFM.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Icr_Treasury_Control.Properties.Resources.resources
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.csproj.GenerateResource.cache
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.AssemblyInfoInputs.cache
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.AssemblyInfo.cs
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.csproj.CoreCompileInputs.cache
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church T.31AE5E94.Up2Date
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\refint\Church Treasury Control.dll
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.pdb
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\Church Treasury Control.genruntimeconfig.cache
+C:\programacao\estudosdeprogramacao\C_C++_C#\C#\Windows_Forms\Icr Treasury Control\obj\Debug\net8.0-windows\ref\Church Treasury Control.dll
