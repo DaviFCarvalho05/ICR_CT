@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Church Treasury Control", "Church Treasury Control.csproj", "{A8FE5D73-AD7C-480E-AAF4-F9021D9810ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FE5D73-AD7C-480E-AAF4-F9021D9810ED}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FE5D73-AD7C-480E-AAF4-F9021D9810ED}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A8FE5D73-AD7C-480E-AAF4-F9021D9810ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FE5D73-AD7C-480E-AAF4-F9021D9810ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
