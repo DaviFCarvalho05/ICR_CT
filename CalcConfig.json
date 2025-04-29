@@ -1,5 +1,9 @@
 {
   "reservaPercentual": 0.20,
   "repassePercentual": 0.15,
-  "contribuicaoMinima": 150.00
+  "contribuicaoMinima": 150.00,
+  "chavePix" = "seu@email.com",
+	"nomeRecebedor" = "Davi Figueira Carvalho",
+  "cidade" = "Rio de Janeiro",
+  "identificador" = "REPASSE",
 }
